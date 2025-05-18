@@ -1,0 +1,1434 @@
+fileFormatVersion: 2
+guid: 821c5c6838195fd438c995882d3316b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8395f77406f236a4f845838d9cd4e4a4
+      internalID: -1335733342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 704
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da978dc702b6be4428aff083ab05faa1
+      internalID: 1102326865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 704
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdfa4a5e2a49164b8f8745d065017d8
+      internalID: -1930486831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 704
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afe72c1fb5a02a46a98af2798f42328
+      internalID: -334375306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 704
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c05f51ff713f24a915bed20d22d3c2
+      internalID: -1296437967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3b43b0a251a8a4f9c2936780d5da8a
+      internalID: 1637621386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 640
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7812932a9263aa34c9862d101cbacf40
+      internalID: 2047336095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 640
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537482c761150e645b0028ec31ac45a0
+      internalID: -1270796955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f163460c2d15d0344b5afe0ad802fd08
+      internalID: -179969624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 640
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01df671c16475794ea89cd49111dfa2a
+      internalID: 1739802406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dc1ae8b8e1d9845bfa65a6ead9e11e
+      internalID: -821898141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 576
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63cbd44d043894cbe15a7f676f7d27
+      internalID: 452330271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 576
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d34df6229331be46bf78761911bc130
+      internalID: -142956952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 576
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1b58be345616144a2a278a5640ecd0
+      internalID: -1392756443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 576
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca50a4ef4b12f54ca0b6d1b9c3cf9d2
+      internalID: 1410163791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21895f358fd96c049b7864aa0ce58d77
+      internalID: 1531592823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 512
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4530e999acef4d878b5b0bc64ece8
+      internalID: -1587526864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 512
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e8419b59edb6749b0a78556b34c82b
+      internalID: -1178552661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60ed4b0486f17347ba12fb58887f07d
+      internalID: -2031197938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 512
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24393d926f662b42ba7d6e45bad5b27
+      internalID: -531206230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedab701fce88a749a4ebd68111a3d5a
+      internalID: -1363121564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 448
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db2d2b52d5461b4fa753f642da5ee39
+      internalID: -911521682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 448
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880434af491615d4f9d9776b1b0d4879
+      internalID: 2082838918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 448
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5604a7f2b7ba976429d130f9270444ea
+      internalID: -332609806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 448
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f88a0e90949fd84ca999be5dc081867
+      internalID: 1884482054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5b7c830a4acff41a9d17a3c2fff577
+      internalID: 653008347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 384
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51fee750692b70458a62379e2538eef
+      internalID: 1998004142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 384
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea4f4b6dd0318646a8423ffcf7705bb
+      internalID: 2134288276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 384
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cee7521103ae4b4995c52e6c0848802
+      internalID: -431184619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_29
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 384
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46ef9e50b5d0040850e82ebc21f3c7
+      internalID: 2094030539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f7df95911873043bb872ece58fc3d3
+      internalID: 154397659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 320
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d500aee12e54347967a77efc983d7c
+      internalID: 1882163276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 320
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a51d7aa76720f4abfbf0df576aef6d
+      internalID: -218133177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 320
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90014365ad1bf3f4384fa6e90467e9dd
+      internalID: 822178464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 320
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda32988db634ac4dbbcf6515b24bebd
+      internalID: -1614967360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc176a69dd973c746a9c6f51f5ae2512
+      internalID: 732907395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 256
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1b843c7f6814f44982669134faa9c2
+      internalID: -1526481520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 256
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f4a1b82cbc2e14fa54bcac485fb575
+      internalID: 342328867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 256
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf70decfc3a42934b807a6482ed751be
+      internalID: 1541907741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_39
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 256
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12db07597a89e974fb19e840d79f48b6
+      internalID: 2092223844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9df553314246184b97a5bd32e64f409
+      internalID: 1355827554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 192
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd5b579b83932c48a0cfe90aa1108a6
+      internalID: 871073408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_42
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 192
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceda3a7d28ff294884a3e9b728e58c9
+      internalID: 1967771562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed268f3df1bfcd469161973c7b9d3eb
+      internalID: 1862670350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_44
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 192
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0555ad41a2f302a44be5781b0afc3483
+      internalID: -716600786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d471d2ec33b424fb6feb89036ea224
+      internalID: 1851580655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 128
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fddc76064897642aeea67ae6a3f44c
+      internalID: -1001288525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_47
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 128
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d54e864e53d046b623a8e7bdb87c4
+      internalID: -827543285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189896fbf65f92c4595173add43ebfb2
+      internalID: 848407918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_49
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 128
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a383372b0dec04e4aa2c35ca7a31ea16
+      internalID: 642296439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0582cce485af1604da725baa0a953935
+      internalID: -1664022431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 64
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c2bba678ec55444a2bdebc24a98292
+      internalID: -1346810735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 64
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3233fd185243d4f871129008f12f9c
+      internalID: 898200929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 64
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce088ebb26c8e064a9039ed453dd29df
+      internalID: 846972633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_54
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 64
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beff04c1f150b24396b963e173e0268
+      internalID: -1252256777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608aa3e1b44f6be42bc8f1f93221878d
+      internalID: 1156027508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_56
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4b240cd46d1724d9362bb7a825acb8
+      internalID: 127515992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c33f54ef69f24fbf5e338f9233df2
+      internalID: -1761462503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcfa878cd5635c4ebef6d26897e7173
+      internalID: 1202506266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Purple_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727eea52268427640b5d982fb3e6cb2b
+      internalID: 1810186058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Heavy Knighty Purple_0: -1335733342
+      Heavy Knighty Purple_1: 1102326865
+      Heavy Knighty Purple_10: -821898141
+      Heavy Knighty Purple_11: 452330271
+      Heavy Knighty Purple_12: -142956952
+      Heavy Knighty Purple_13: -1392756443
+      Heavy Knighty Purple_14: 1410163791
+      Heavy Knighty Purple_15: 1531592823
+      Heavy Knighty Purple_16: -1587526864
+      Heavy Knighty Purple_17: -1178552661
+      Heavy Knighty Purple_18: -2031197938
+      Heavy Knighty Purple_19: -531206230
+      Heavy Knighty Purple_2: -1930486831
+      Heavy Knighty Purple_20: -1363121564
+      Heavy Knighty Purple_21: -911521682
+      Heavy Knighty Purple_22: 2082838918
+      Heavy Knighty Purple_23: -332609806
+      Heavy Knighty Purple_24: 1884482054
+      Heavy Knighty Purple_25: 653008347
+      Heavy Knighty Purple_26: 1998004142
+      Heavy Knighty Purple_27: 2134288276
+      Heavy Knighty Purple_28: -431184619
+      Heavy Knighty Purple_29: 2094030539
+      Heavy Knighty Purple_3: -334375306
+      Heavy Knighty Purple_30: 154397659
+      Heavy Knighty Purple_31: 1882163276
+      Heavy Knighty Purple_32: -218133177
+      Heavy Knighty Purple_33: 822178464
+      Heavy Knighty Purple_34: -1614967360
+      Heavy Knighty Purple_35: 732907395
+      Heavy Knighty Purple_36: -1526481520
+      Heavy Knighty Purple_37: 342328867
+      Heavy Knighty Purple_38: 1541907741
+      Heavy Knighty Purple_39: 2092223844
+      Heavy Knighty Purple_4: -1296437967
+      Heavy Knighty Purple_40: 1355827554
+      Heavy Knighty Purple_41: 871073408
+      Heavy Knighty Purple_42: 1967771562
+      Heavy Knighty Purple_43: 1862670350
+      Heavy Knighty Purple_44: -716600786
+      Heavy Knighty Purple_45: 1851580655
+      Heavy Knighty Purple_46: -1001288525
+      Heavy Knighty Purple_47: -827543285
+      Heavy Knighty Purple_48: 848407918
+      Heavy Knighty Purple_49: 642296439
+      Heavy Knighty Purple_5: 1637621386
+      Heavy Knighty Purple_50: -1664022431
+      Heavy Knighty Purple_51: -1346810735
+      Heavy Knighty Purple_52: 898200929
+      Heavy Knighty Purple_53: 846972633
+      Heavy Knighty Purple_54: -1252256777
+      Heavy Knighty Purple_55: 1156027508
+      Heavy Knighty Purple_56: 127515992
+      Heavy Knighty Purple_57: -1761462503
+      Heavy Knighty Purple_58: 1202506266
+      Heavy Knighty Purple_59: 1810186058
+      Heavy Knighty Purple_6: 2047336095
+      Heavy Knighty Purple_7: -1270796955
+      Heavy Knighty Purple_8: -179969624
+      Heavy Knighty Purple_9: 1739802406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
