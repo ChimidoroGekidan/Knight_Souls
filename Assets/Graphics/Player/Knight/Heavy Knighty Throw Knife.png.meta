@@ -1,0 +1,1434 @@
+fileFormatVersion: 2
+guid: e29ff61e2d365ed4895c1fa96ccc098f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece1771892287504f9143fc0266f2860
+      internalID: -1792726722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 704
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99a22a9ccb45554ab06581a630cc64f
+      internalID: 1571251257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 704
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3d8913ee8cc21469e48756eb8f536a
+      internalID: 384660909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 704
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daea3fe58eeadbf459482ea54f218c30
+      internalID: 248635692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 704
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11ce834f8186664aa6502a3b0051e1a
+      internalID: 288274520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f578f727bfb1cc4996cc55e8edfcbef
+      internalID: 695634750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 640
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d69c954cbaf564f9aa86d96058be4b
+      internalID: -1091073559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 640
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a1d34f4ef549a49a7155334c7789e2
+      internalID: -1815205880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252b6347e136aa34189c0f76ecad269a
+      internalID: 96379567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 640
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64420c59e75adc6458c8c7a3c066d626
+      internalID: 672250813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d1478aff6115f499417cc180b5d745
+      internalID: 612507804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 576
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c1cd7382837fa4f94e8ae9da220988
+      internalID: 1873135093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 576
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9281c3f2bc42a7c48bdd38347c54ea39
+      internalID: -1422880351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 576
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342db4772bf4b664b86df8ced539158e
+      internalID: 206802383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 576
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8965d8a0a7f244f8543cb35bcf73d7
+      internalID: -163242345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d79565eb9a37a47811be600b22df84
+      internalID: -1129521446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 512
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac47c3aeb7dfa42a280a65c44db1fc
+      internalID: 1944940675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 512
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8667da130a8c2e140a971de29494aad8
+      internalID: 1255151873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87387b41a1348c94fb6eecc3c52c113d
+      internalID: -460956483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 512
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ce24610b78190498db33108cc603a7
+      internalID: -1087563106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80692ed92553b54b95d1d7356b36f84
+      internalID: -720466246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 448
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82e317423a5a6e42ad141cddb1f9abc
+      internalID: 1810581314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 448
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fe31336a3542d40857ea1984672bf4
+      internalID: -620449704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 448
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b11c5f3aee4dbd479f52f614d4bbb14
+      internalID: 2099397286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 448
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f306b842efc501940a22c164a6e7d61b
+      internalID: 939794399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a44a2478f579448bf1b11fc61164c4
+      internalID: -79913178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 384
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b1571897733df48a2cc73fcd79ab16
+      internalID: -133388590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 384
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414e66e316f9bf040aeb32b8c5d328e0
+      internalID: 2033128145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 384
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2130f1138a89e1f4989edddf0ae40688
+      internalID: 154462871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_29
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 384
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa0717db398f0c40aac5b9f4fb631e9
+      internalID: -1955560157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108533a0aa1f8cf4aa5a8760e19494bb
+      internalID: 2040403971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 320
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2595828caa496e343a2df707d72ef798
+      internalID: 1467762746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 320
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6aa4e6243ca644fa53a6dae8a186d7
+      internalID: 1221382080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 320
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b600fb751f82a7344b1709521b486b12
+      internalID: -752730309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 320
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83819a7fc6b5f2349b73a526fbeaaf46
+      internalID: 26798278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b1d7070e4a1954f9c36238392a91b9
+      internalID: 1765348232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 256
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b82f7398d9f9344874875f34cbcdda
+      internalID: -786990435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 256
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40617f69cf9488745b4df2e715d2a5be
+      internalID: 278613800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 256
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8782d632f59f6743885027684ac2440
+      internalID: 2134998979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_39
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 256
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d557d6a6ceb8544bb78e4b7d671ebf1
+      internalID: -432369844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89da6c30cc4870942bd78981923ed06f
+      internalID: 1819551863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 192
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396fa75c670c8194eb0541d7dcef38fb
+      internalID: -245659558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_42
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 192
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e142517656a582c45bdcf76d20c5537b
+      internalID: 1663301896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa29c313b617ce945b0173d40f52b8f8
+      internalID: 81481545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_44
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 192
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a097dfa11aafe46bdded045e76fb5e
+      internalID: -1750704036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cf5e0882e365848945d30aaf3e2256
+      internalID: 2133097226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 128
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04edc94bd623f5245aac1ffe1d1d7fc3
+      internalID: 1478945965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_47
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 128
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e879dabe8f7dfd74bb21b88c8dc62477
+      internalID: 1526635057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f663df695fdf1ef4289fa0de983756d7
+      internalID: -777903579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_49
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 128
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b636179446e3c4a9d03d83ab5d95b6
+      internalID: 1549352309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95733d06b67b9964789f119a2dd908a4
+      internalID: -1729573233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 64
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fb53ac0ebb90b49a8bf9f4a489cf82
+      internalID: 1878110927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 64
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7363f10558e034796b9d3e7a0f780b
+      internalID: 1983635943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 64
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d646ba09ea956c34784e8b5a6b5ad107
+      internalID: 1562521594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_54
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 64
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a8b8e7dcb42349944db11ca09c9f1
+      internalID: 1102150833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e284376dd05d014bb8b9c7ac06d4d4f
+      internalID: 902837273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_56
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4257e4b84dd014d836fccd1c0735d1
+      internalID: -643591679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ece1432843cc548b3b74287c2fa46b
+      internalID: -1818076165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4f002ca373c5642aa8589bee99a42f
+      internalID: -1995417393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Knighty Throw Knife_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0546b279145ce45a6e3224d60c3205
+      internalID: 2009410112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Heavy Knighty Throw Knife_0: -1792726722
+      Heavy Knighty Throw Knife_1: 1571251257
+      Heavy Knighty Throw Knife_10: 612507804
+      Heavy Knighty Throw Knife_11: 1873135093
+      Heavy Knighty Throw Knife_12: -1422880351
+      Heavy Knighty Throw Knife_13: 206802383
+      Heavy Knighty Throw Knife_14: -163242345
+      Heavy Knighty Throw Knife_15: -1129521446
+      Heavy Knighty Throw Knife_16: 1944940675
+      Heavy Knighty Throw Knife_17: 1255151873
+      Heavy Knighty Throw Knife_18: -460956483
+      Heavy Knighty Throw Knife_19: -1087563106
+      Heavy Knighty Throw Knife_2: 384660909
+      Heavy Knighty Throw Knife_20: -720466246
+      Heavy Knighty Throw Knife_21: 1810581314
+      Heavy Knighty Throw Knife_22: -620449704
+      Heavy Knighty Throw Knife_23: 2099397286
+      Heavy Knighty Throw Knife_24: 939794399
+      Heavy Knighty Throw Knife_25: -79913178
+      Heavy Knighty Throw Knife_26: -133388590
+      Heavy Knighty Throw Knife_27: 2033128145
+      Heavy Knighty Throw Knife_28: 154462871
+      Heavy Knighty Throw Knife_29: -1955560157
+      Heavy Knighty Throw Knife_3: 248635692
+      Heavy Knighty Throw Knife_30: 2040403971
+      Heavy Knighty Throw Knife_31: 1467762746
+      Heavy Knighty Throw Knife_32: 1221382080
+      Heavy Knighty Throw Knife_33: -752730309
+      Heavy Knighty Throw Knife_34: 26798278
+      Heavy Knighty Throw Knife_35: 1765348232
+      Heavy Knighty Throw Knife_36: -786990435
+      Heavy Knighty Throw Knife_37: 278613800
+      Heavy Knighty Throw Knife_38: 2134998979
+      Heavy Knighty Throw Knife_39: -432369844
+      Heavy Knighty Throw Knife_4: 288274520
+      Heavy Knighty Throw Knife_40: 1819551863
+      Heavy Knighty Throw Knife_41: -245659558
+      Heavy Knighty Throw Knife_42: 1663301896
+      Heavy Knighty Throw Knife_43: 81481545
+      Heavy Knighty Throw Knife_44: -1750704036
+      Heavy Knighty Throw Knife_45: 2133097226
+      Heavy Knighty Throw Knife_46: 1478945965
+      Heavy Knighty Throw Knife_47: 1526635057
+      Heavy Knighty Throw Knife_48: -777903579
+      Heavy Knighty Throw Knife_49: 1549352309
+      Heavy Knighty Throw Knife_5: 695634750
+      Heavy Knighty Throw Knife_50: -1729573233
+      Heavy Knighty Throw Knife_51: 1878110927
+      Heavy Knighty Throw Knife_52: 1983635943
+      Heavy Knighty Throw Knife_53: 1562521594
+      Heavy Knighty Throw Knife_54: 1102150833
+      Heavy Knighty Throw Knife_55: 902837273
+      Heavy Knighty Throw Knife_56: -643591679
+      Heavy Knighty Throw Knife_57: -1818076165
+      Heavy Knighty Throw Knife_58: -1995417393
+      Heavy Knighty Throw Knife_59: 2009410112
+      Heavy Knighty Throw Knife_6: -1091073559
+      Heavy Knighty Throw Knife_7: -1815205880
+      Heavy Knighty Throw Knife_8: 96379567
+      Heavy Knighty Throw Knife_9: 672250813
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
